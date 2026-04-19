@@ -1,0 +1,11 @@
+Nome,Idade,Cargo,Salario,TempoEmpresa,Status,Média salarial,Total Funcionário,Turnover 
+Ana,25,Assistente,2000,1,Ativo,3600,10,"0,3"
+Carlos,32,Analista,3500,3,Ativo,"3777,777778",9,"0,3333333333"
+João,28,Assistente,2200,2,Demitido,"3812,5",8,"0,375"
+Mariana,40,Gerente,7000,8,Ativo,"4042,857143",7,"0,2857142857"
+Pedro,23,Estagiário,1200,1,Demitido,3550,6,"0,3333333333"
+Lucas,35,Analista,4000,5,Ativo,4020,5,"0,2"
+Fernanda,29,Assistente,2100,2,Ativo,4025,4,"0,25"
+Bruno,31,Analista,3700,4,Demitido,"4666,666667",3,"0,3333333333"
+Juliana,45,Gerente,8000,10,Ativo,5150,2,0
+Rafael,27,Assistente,2300,3,Ativo,2300,1,0
